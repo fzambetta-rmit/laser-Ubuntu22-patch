@@ -6,7 +6,6 @@ Dependencies: `gcc, make`
 
 ```shell
 git clone https://github.com/PaperFanz/laser.git
-git checkout testing
 cd laser/src
 make
 sudo make install
@@ -33,7 +32,6 @@ Dependencies: `xcode command line tools`
 ```shell
 xcode-select --install
 git clone https://github.com/PaperFanz/laser.git
-git checkout testing
 cd laser/src
 make
 sudo make install
