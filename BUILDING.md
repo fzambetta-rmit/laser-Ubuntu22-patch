@@ -1,6 +1,6 @@
 # Building Laser from Source
 
-# Linux
+# Linux/WSL
 
 Dependencies: `gcc, make`
 
