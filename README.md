@@ -6,6 +6,9 @@ Laser is a cross-platform, command-line-based assembler for the LC3 assembly
 language implemented in pure C. Version 2 extends the functionality of LC3Tools 
 and LC3Edit through new pseudoops, along with a project assembly mode.
 
+**PLEASE NOTE:** *This is a fork of the original repository patching it on Ubuntu 22 where make would fail due to a multiple definition link error.\
+This patch was successfully tested on [Ubuntu 22.04.03 TLS AKA Jammy Jellyfish](https://releases.ubuntu.com/jammy/).*
+
 ## Installing
 
 Under the releases tab, there are pre-compiled binaries for Windows, Mac, and 
