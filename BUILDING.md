@@ -5,7 +5,7 @@
 Dependencies: `gcc, make`
 
 ```shell
-git clone https://github.com/PaperFanz/laser.git
+git clone https://github.com/fzambetta-rmit/laser-Ubuntu22-patch
 cd laser/src
 make
 sudo make install
